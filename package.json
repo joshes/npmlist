@@ -1,0 +1,14 @@
+{
+  "name": "npmlist",
+  "version": "1.0.0",
+  "description": "Small utility to print a CLI parseable dependency graph from npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "npmlist": "./index.js"
+  },
+  "author": "Joshua Hansen",
+  "license": "ISC"
+}
